@@ -5,6 +5,8 @@
 | CPU  |       AMD R7 2700       |
 | 显卡 | NVIDIA GeForce GTX 970  |
 | 内存 |        镁光 8g*4        |
+### 使用OC版本
+- 0.7.1
 
 
 ## 正常工作
